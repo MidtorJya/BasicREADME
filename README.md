@@ -37,7 +37,7 @@ or
 
 #### For gifs
 
-![alt text](https://i.pinimg.com/originals/e2/24/cb/e224cb7f056577946e9f9bf3918370c5.gif)
+![alt text](https://media2.giphy.com/media/dXLnSpMDt7CvzRwMa9/200w.gif?cid=6c09b952o7z2ah8cbuzhybcl76bsae4aulpidgo9dcq5tcfw&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 > Blockquote
 
