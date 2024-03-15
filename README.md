@@ -30,5 +30,24 @@ and There's one more *method*.
 
 <img src="https://pbs.twimg.com/media/Ff6bOKJXkAIWxZl.png">
 
+or
+
+
 ![alt text](https://pbs.twimg.com/media/Ff6bOKJXkAIWxZl.png)
+
+#### For gifs
+
+![alt text](https://i.pinimg.com/originals/e2/24/cb/e224cb7f056577946e9f9bf3918370c5.gif)
+
+> Blockquote
+
+`int n = 17;`
+
+```
+public class Main {
+.
+.
+.
+}
+```
 
