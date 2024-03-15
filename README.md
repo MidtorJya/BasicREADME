@@ -28,9 +28,7 @@ and There's one more *method*.
 
 #### For pngs/jpegs/jpgs
 
-<img scr="https://pbs.twimg.com/media/Ff6bOKJXkAIWxZl.png">
+<img src="https://pbs.twimg.com/media/Ff6bOKJXkAIWxZl.png">
 
-or
-
-!.[alt text].(https://pbs.twimg.com/media/Ff6bOKJXkAIWxZl.png)
+![alt text](https://pbs.twimg.com/media/Ff6bOKJXkAIWxZl.png)
 
